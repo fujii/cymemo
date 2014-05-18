@@ -1,4 +1,4 @@
-;;; cymemo.el --- A single plain-text journal mode for Emacs
+;;; cymemo.el --- A single plain-text journal mode for Emacs -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2002-2012 Fujii Hironori
 
